@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1052345656099",
+    "project_id": "dotlive-e7461",
+    "storage_bucket": "dotlive-e7461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052345656099:android:8bee0e32a7e108cafda296",
+        "android_client_info": {
+          "package_name": "com.example.stream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052345656099-7aupl61n59ir9u72ittb7eu61koemcse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhgNfqK0dRkpslkzmJFCvAQdG8Ol7zvv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052345656099-7aupl61n59ir9u72ittb7eu61koemcse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052345656099-h54grjdbh8cuvjr0v2948t2v72sb37kj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
